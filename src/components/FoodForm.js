@@ -21,7 +21,7 @@ const FoodForm = () => {
         <label>Food Name</label>
         <input
           type="text"
-          placeholder="Apple"
+          placeholder="POTAHTO"
           onChange={(e) => {
             setFoodName(e.target.value);
           }}
