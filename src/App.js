@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
       <p>This line is from the local and I wanna keep the local.</p>
+      <p>Adding another line to push.</p>
     </div>
   );
 }
