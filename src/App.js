@@ -8,7 +8,7 @@ import FoodList from "./components/FoodList";
 function App() {
   return (
     <div className="App">
-      <h2>Potatos are the bestttt potahahah<h2>
+      <p>This line is from the local and I wanna keep the local.</p>
     </div>
   );
 }
