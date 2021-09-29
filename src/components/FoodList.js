@@ -33,7 +33,7 @@ const FoodList = () => {
             <h4>{val.daysSinceIAte}</h4>
             <input
               type="text"
-              placeholder="New Food Name"
+              placeholder="New POTAHTO"
               onChange={(e) => {
                 setNewFoodName(e.target.value);
               }}
